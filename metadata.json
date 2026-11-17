@@ -1,0 +1,8 @@
+{
+  "name": "AgileFlow — Quản lý Dự án Kanban & Hiệu suất",
+  "description": "Ứng dụng quản lý dự án Kanban trực quan với checklist đánh giá hiệu suất, bình luận theo nhật ký, biểu đồ Burndown, bảng xếp hạng dự án và hệ thống tự động hóa Power-Ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
