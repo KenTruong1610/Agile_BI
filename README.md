@@ -4,7 +4,7 @@
 Đây là dự án Outsource. Có thể lấy về và chỉnh sửa thêm để phù hợp với dự án nội bộ.
 
 ### 🔹 Các chức năng chính
-- **Dashboard:** Tổng hợp các dự án, lịch sử chỉnh sửa cùng các chỉnh số
+- **Dashboard:** Tổng hợp các dự án, lịch sử chỉnh sửa cùng các chỉ số
 - **Giao diện quản lý dự án:** Sử dụng các phương pháp phát triển linh hoạt nhằm tạo ra ứng dụng quản lý công việc nội bộ
 - **Dữ liệu lưu trữ:** Sử dụng MongoDB để lưu trữ dữ liệu lịch sử cùng quản lý nhân viên làm việc
 - **Burndown Chart cùng các chỉ số:** Nghiên cứu hiệu quả làm việc và hướng giải quết nếu US bị chững lại
